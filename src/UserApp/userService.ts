@@ -1,7 +1,7 @@
 import userRepository from "./userRepository";
 import { Prisma } from "@prisma/client";
 
-
+ 
 
 
 async function authUser(email: string, password: string) {
