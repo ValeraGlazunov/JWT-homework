@@ -4,7 +4,6 @@ import productRouter from './ProductApp/productRouter';
 import userRouter from './UserApp/userRouter';
 import cookieParser from 'cookie-parser';
 
-// Yuppi
 
 const app: Express = express();
 const HOST: string = 'localhost';
