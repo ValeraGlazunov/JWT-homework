@@ -1,1 +1,1 @@
-export const SECRET_KEY = 'kotik'
+export const SECRET_KEY = 'valeroll'
